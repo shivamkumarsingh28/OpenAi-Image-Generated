@@ -22,6 +22,6 @@ Run server
 npm start
 ```
 
-Visit `https://saeeamimageopenai.onrender.com` in your browser.
+Visit [Click Here](https://saeeamimageopenai.onrender.com) in your browser.
 
 The endpoint is at `POST http://localhost:5000/openai/generateimage`.
