@@ -1,0 +1,29 @@
+{
+  "name": "saeeam-openapi-image-generate",
+  "version": "1.0.0",
+  "description": "Generate images using OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamkumarsingh28/OpenAi-Image-Generated.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivamkumarsingh28/OpenAi-Image-Generated/issues"
+  },
+  "homepage": "https://github.com/shivamkumarsingh28/OpenAi-Image-Generated#readme"
+}
